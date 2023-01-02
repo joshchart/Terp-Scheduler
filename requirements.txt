@@ -1,0 +1,2 @@
+-e git://joshchart/umd_io_python_client.git#egg=umd_io
+-e git://joshchart/planet_terp_python_client.git#egg=planet_terp
